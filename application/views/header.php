@@ -40,8 +40,8 @@
                         </aside>
                         <aside class="col-md-6">
                             <ul class="education-user-section">
-                                 <li> <a href="#" data-toggle="modal" data-target="#loginModal"><i class="fa fa-user"></i> Login</a></li>
-                                <li> <a href="#" data-toggle="modal" data-target="#signupModal"><i class="fa fa-sign-in"></i> Sign Up</a></li>
+                                 <li> <a href="#"><i class="fa fa-user"></i> Login</a></li>
+                              
                             </ul>
                         </aside>
                     </div>
